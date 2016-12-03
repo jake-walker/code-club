@@ -1,6 +1,8 @@
 # Code Club Lessons
 These are the lessons in Markdown format for my Code Club that I run.
 
+## Lessons
+
 *I will try and update this list but there's no promises*
 
 | # | Name | Languages | Description | Link |
