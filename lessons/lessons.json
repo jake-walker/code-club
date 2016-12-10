@@ -1,3 +1,26 @@
 {
-  "lessons": {}
+  "lessons": {
+    "apis": {
+      "title": "APIs",
+      "files": [
+        {
+          "name": "Introduction",
+          "path": "apis/intro.md",
+          "headerImage": "http://wallpapercave.com/wp/9O8cqT5.jpg"
+        },
+        {
+          "name": "Setting Up",
+          "path": "apis/setup.md"
+        },
+        {
+          "name": "Node Introduction",
+          "path": "apis/nodeintro.md"
+        },
+        {
+          "name": "Your first API call",
+          "path": "apis/firstcall.md"
+        }
+      ]
+    }
+  }
 }

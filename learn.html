@@ -10,6 +10,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css">
     <script src="https://use.fontawesome.com/5ebb6911d5.js"></script>
     <style>
       @import url('https://fonts.googleapis.com/css?family=Montserrat');
@@ -107,7 +108,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
-    <script src="https://cdn.rawgit.com/jake-walker/fa39801b0ee0ad43dcbada01c979c56c/raw/e8bf5d1ce41f6aad3f6cf645b2a62749542376cc/bootstrapv4-marked.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+    <script src="https://cdn.rawgit.com/jake-walker/fa39801b0ee0ad43dcbada01c979c56c/raw/de304f3792e9c1f2cab896b780fa385674b1cb8a/bootstrapv4-marked.js"></script>
     <script>
       var hash = window.location.hash.replace(/^.*?#/,'');
 
@@ -157,6 +159,9 @@
         $("#lesson-current").text(data.name);
         $.get("lessons/" + data.path, function(data) {
           $("#content").html(marked(data));
+          $('pre code').each(function(i, block) {
+            hljs.highlightBlock(block);
+          });
         });
         $("#lesson-location").html("&nbsp;" + index + "/" + total + "&nbsp;");
         if (data.headerImage) {
