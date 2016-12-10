@@ -161,6 +161,8 @@
         $("#lesson-location").html("&nbsp;" + index + "/" + total + "&nbsp;");
         if (data.headerImage) {
           $(".hero").css("background", "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(" + data.headerImage + ") no-repeat center center fixed");
+        } else {
+          $(".hero").css("background", "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(assets/images/code-header.jpg) no-repeat center center fixed");
         }
         if (files.length <= (files.indexOf(current) + 1)) {
           $("#lesson-next").hide();
