@@ -13,12 +13,9 @@
           "path": "apis/setup.md"
         },
         {
-          "name": "Node Introduction",
-          "path": "apis/nodeintro.md"
-        },
-        {
-          "name": "Your first API call",
-          "path": "apis/firstcall.md"
+          "name": "Money Conversion",
+          "path": "apis/money.md",
+          "headerImage": "http://wallpapercave.com/wp/lrKU8Nu.jpg"
         }
       ]
     }

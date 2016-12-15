@@ -18,4 +18,4 @@ Now you know a bit about APIs, here are some ones from popular companies that yo
 * **Met Office** - Allows developers to collect the latest weather information.
 * and the list goes on...
 
-So as you can see quite a few big companies have APIs. In this lesson we are going to use an API using a programming language called Node.js which is build on JavaScript so it is very similar.
+So as you can see quite a few big companies have APIs. In this lesson we are going to use different APIs to show useful information to a user.
