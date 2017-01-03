@@ -9,13 +9,27 @@
           "headerImage": "http://wallpapercave.com/wp/9O8cqT5.jpg"
         },
         {
-          "name": "Setting Up",
-          "path": "apis/setup.md"
-        },
-        {
           "name": "Money Conversion",
           "path": "apis/money.md",
           "headerImage": "http://wallpapercave.com/wp/lrKU8Nu.jpg"
+        }
+      ]
+    },
+    "github": {
+      "title": "GitHub",
+      "files": [
+        {
+          "name": "Introduction",
+          "path": "github/intro.md",
+          "headerImage": "https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png"
+        },
+        {
+          "name": "Your First Contribution",
+          "path": "github/contrib.md"
+        },
+        {
+          "name": "Making your own Repository",
+          "path": "github/firstrepo.md"
         }
       ]
     }
