@@ -10,3 +10,4 @@ These are the lessons in Markdown format for my Code Club that I run.
 | 3 | 9/12/16 | *(Off Topic)* Facebook CTF |  | [Learn More](https://github.com/facebook/fbctf) |  |
 | 4 | 16/12/16 | APIs | HTML, *(CSS)*, JavaScript | Fetching information from APIs. | [Website](https://malverncode.club/learn.html#apis) |
 | 5 | 6/1/17 | GitHub | *n/a* | Learning how to use GitHub for collaborating with code. | [Website](https://malverncode.club/learn.html#github) - *[Extra Work](https://docs.google.com/document/d/1bGuemLYD0LlPyVN38gss5zuM0rldtw6sy1cIACv8lJs/edit?usp=sharing)* |
+| 6 | 20/1/17 | SQLite | Python | Storing simple data in a database. | [Slides.com Presentation](http://slides.com/jakewalker/sql) |
