@@ -1,7 +1,8 @@
-# Code Club Lessons
-These are the lessons in Markdown format for my Code Club that I run.
+# Code Club
 
 ## Lessons
+
+### Year 8 and up
 
 | # | Date | Name | Languages | Description | Link |
 |---|---|---|---|---|---|
@@ -14,3 +15,11 @@ These are the lessons in Markdown format for my Code Club that I run.
 | 7 | 27/1/17 | Linux | Bash | Learning simple Linux commands | [Slides.com Presentation](http://slides.com/jakewalker/linux) |
 | 8 | 3/2/17 | Bitcoin |  | Learning the basics of Bitcoin | [Slides.com Presentation](http://slides.com/jakewalker/bitcoin) |
 | 9 | 10/2/17 | Linux | Bash | Learning simple Linux commands | *Coming soon* |
+| 10 | 17/2/17 | PHP | PHP, HTML, CSS, JavaScript | Learning about the most popular serverside web technology, PHP. | [Slides.com Presentation](http://slides.com/jakewalker/deck-8) |
+| 11 | 3/3/17 | Micro:bit Basics | Python | Learning to program a BBC Micro:bit | [Slides.com Presentation](https://slides.com/jakewalker/microbit1-python) |
+
+### Year 7
+
+| # | Date | Name | Languages | Description | Link |
+|---|---|---|---|---|---|
+| 1 | 1/3/17 | Micro:bit Basics | Blocks | Learning how to program a BBC Micro:bit | [Slides.com Presentation](http://slides.com/jakewalker/microbit1) |
