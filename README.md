@@ -17,6 +17,7 @@
 | 11 | 3/3/17 | Micro:bit Basics | Python | Learning to program a BBC Micro:bit | [Slides.com Presentation](https://slides.com/jakewalker/microbit1-python) |
 | 12 | 10/3/17 | Tkinter Basics | Python | Learning to make a GUI with Python using Tkinter | [Slides.com Presentation](https://slides.com/jakewalker/deck-12)
 | 13 | 17/3/17 | Tkinter Shop | Python | Learning to make a simple shop with Tkinter | [Slides.com Presentation](https://slides.com/jakewalker/deck-14) |
+| 14 | 24/3/17 | Tkinter Login | Python | Learning about hashing passwords | [Slides.com Presentation](https://slides.com/jakewalker/deck-9bb0883a-2d66-43be-bb06-1884edba710c) |
 
 ### Year 7
 
@@ -25,3 +26,4 @@
 | 1 | 1/3/17 | Micro:bit Basics | Blocks | Learning how to program a BBC Micro:bit | [Slides.com Presentation](http://slides.com/jakewalker/microbit1) |
 | 2 | 8/3/17 | Micro:bit Radio | Blocks | Learning how to program a BBC Micro:bit so two or more can send each other messages | [Slides.com Presentation](https://slides.com/jakewalker/micro-bit) |
 | 3 | 15/3/17 | HTML Basics | HTML | Learning how to make a simple webpage | [Slides.com Presentation](https://slides.com/jakewalker/html/live) |
+| 4 | 24/3/17 | HTML | HTML & CSS | Learning about using CSS with HTML | [Worksheet](https://www.codeclubprojects.org/en-GB/webdev/happy-birthday/) |
