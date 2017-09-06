@@ -18,6 +18,12 @@
 | 12 | 10/3/17 | Tkinter Basics | Python | Learning to make a GUI with Python using Tkinter | [Slides.com Presentation](https://slides.com/jakewalker/deck-12)
 | 13 | 17/3/17 | Tkinter Shop | Python | Learning to make a simple shop with Tkinter | [Slides.com Presentation](https://slides.com/jakewalker/deck-14) |
 | 14 | 24/3/17 | Tkinter Login | Python | Learning about hashing passwords | [Slides.com Presentation](https://slides.com/jakewalker/deck-9bb0883a-2d66-43be-bb06-1884edba710c) |
+| 15 | 31/3/17 | Requests | Python | Learning how to make requests to APIs | [Katacoda Scenario](https://katacoda.com/jake-walker/scenarios/3) |
+| 16 | 28/4/17 | Getting Started with Node.js | Node.js | Learning the basics of Node.js | [Slides.com Presentation](https://slides.com/jakewalker/deck-18) |
+| 17 | 12/5/17 | Web Server | Node.js | Learning how to make a website with Node.js | [Slides.com Presentation](https://slides.com/jakewalker/deck-19) |
+| 18 | 26/5/17 | GitHub & Flask Introduction *(Prep for Raspberry Pi Pioneers)* | *n/a* | Learning the basics of GitHub and Flask | [Slides.com Presentation](https://slides.com/jakewalker/quick-github-introduction) |
+| 19 | 26/5/17 | Making Web Pages Look Nice *(Prep for Raspberry Pi Pioneers)* | *n/a* | Learning how to style HTML and using Twitter's Bootstrap | [Slides.com Presentation](https://slides.com/jakewalker/making-web-pages-look-nice) |
+|  |  | Raspberry Pi Pioneers | Python, HTML, CSS, JS | See [here](https://www.raspberrypi.org/pioneers/) for more info. *(We came runner up).* | [Source Code](https://github.com/malvern-code-club/auqa) |
 
 ### Year 7
 
